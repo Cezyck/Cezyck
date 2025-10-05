@@ -2,11 +2,10 @@
 🛠 STACK
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/819065ab-f810-436d-92f4-31df914dc230" />
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/bfc5df16-5384-4b5d-b15f-7ec3d09f3df1" />
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/011bd0e4-5d7e-4637-a505-90591f1cabf5" />
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/a482ffaa-8c8d-46cf-8a66-d57c0045368f" />
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/7aedfc2e-9034-4442-9391-3ae906249eb0" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6a00d845-cc0f-4b52-9417-a3e577bf91bb" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/c230557e-86ff-49a9-9b1a-6754c49cf658" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b589d117-1f65-4679-b782-d9912481d06b" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/79ea2a0c-3f15-4a16-9bd4-bdc9b4f35c35" />
 
 
 </div>
