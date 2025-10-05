@@ -1,6 +1,5 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/911e1f9d-022e-4479-bf32-ef44aca7ed7c" />## Hi there 👋
 
-🛠 Stack
+🛠 STACK
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/819065ab-f810-436d-92f4-31df914dc230" />
